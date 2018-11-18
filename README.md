@@ -2,8 +2,12 @@
 
 A curated list of awesome resources.
 
+### Front-End Languages (HTML, CSS & Javascript)
+* [CODEPEN: Development Environment](https://codepen.io/)
+
 ### HTML
 * [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### CSS
 * [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
